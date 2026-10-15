@@ -51,6 +51,7 @@ Physical prototyping · Hardware assembly · Hardware–software integration · 
 I am currently preparing the public documentation for my most representative projects:
 
 - **HackaTec InnovaTecNM 2026 project** — Award-winning hardware and software prototype
+- **[Galart](https://github.com/asaelvim/Galart)** — School team project developed in Python for managing an art gallery; I contributed to sales management, reporting, inventory, PDF output, and account-recovery improvements
 - **Automotive data analysis** — Exploratory analysis and visualization with Python, Seaborn, and Matplotlib
 
 Project repositories and technical case studies will be added as their documentation is completed and sensitive information is removed.
