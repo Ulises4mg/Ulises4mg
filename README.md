@@ -51,7 +51,6 @@ Physical prototyping · Hardware assembly · Hardware–software integration · 
 I am currently preparing the public documentation for my most representative projects:
 
 - **HackaTec InnovaTecNM 2026 project** — Award-winning hardware and software prototype
-- **ATLAS infrastructure** — Infrastructure, databases, automation, storage, backups, and monitoring
 - **Automotive data analysis** — Exploratory analysis and visualization with Python, Seaborn, and Matplotlib
 
 Project repositories and technical case studies will be added as their documentation is completed and sensitive information is removed.
