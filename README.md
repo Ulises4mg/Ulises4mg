@@ -30,9 +30,13 @@ This project strengthened my experience in leadership, teamwork, rapid prototypi
 
 ## Technologies and areas I have worked with
 
-### Programming and data analysis
+### Programming
 
-`C#` · `.NET Framework` · `Windows Forms` · `C++` · `Arduino` · `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · Exploratory Data Analysis · Descriptive Statistics
+`C#` · `.NET Framework` · `Windows Forms` · `C++` · `Arduino` · `Python`
+
+### Data analysis
+
+Python for exploratory data analysis and visualization with `Pandas`, `NumPy`, `Matplotlib`, and `Seaborn`
 
 ### Web development
 
@@ -42,9 +46,9 @@ This project strengthened my experience in leadership, teamwork, rapid prototypi
 
 `PostgreSQL` · `Redis` · `n8n` · S3-compatible storage · Backups · Monitoring
 
-### Hardware and prototyping
+### Hardware and IoT
 
-`ESP32` · `PZEM-004T` · Relay control · Physical prototyping · Hardware assembly · Hardware–software integration · Technical documentation
+`ESP32` · Electrical measurement with `PZEM-004T` · Relay control · Physical prototyping · Hardware–software integration
 
 ## Selected work
 
