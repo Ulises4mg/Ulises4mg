@@ -15,7 +15,7 @@ I am currently in the **7th semester of Systems Engineering** at the **Instituto
 
 ## Featured achievement
 
-### 🥇 HackaTec InnovaTecNM 2026 — Regional Stage, Region 1
+### 🥇 EnerMétrica — HackaTec InnovaTecNM 2026, Regional Stage, Region 1
 
 My team earned **1st place** in the regional stage of HackaTec InnovaTecNM 2026.
 
@@ -32,7 +32,7 @@ This project strengthened my experience in leadership, teamwork, rapid prototypi
 
 ### Programming and data analysis
 
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · Exploratory Data Analysis · Descriptive Statistics
+`C#` · `.NET Framework` · `Windows Forms` · `C++` · `Arduino` · `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · Exploratory Data Analysis · Descriptive Statistics
 
 ### Web development
 
@@ -44,13 +44,14 @@ This project strengthened my experience in leadership, teamwork, rapid prototypi
 
 ### Hardware and prototyping
 
-Physical prototyping · Hardware assembly · Hardware–software integration · Technical documentation
+`ESP32` · `PZEM-004T` · Relay control · Physical prototyping · Hardware assembly · Hardware–software integration · Technical documentation
 
 ## Selected work
 
 I am currently preparing the public documentation for my most representative projects:
 
-- **HackaTec InnovaTecNM 2026 project** — Award-winning hardware and software prototype
+- **[EnerMétrica](https://github.com/asaelvim/Hackatec_Chihuahua_Enermetrica)** — Award-winning IoT project developed for HackaTec InnovaTecNM 2026; I designed and built the physical prototype, worked on its hardware implementation, and contributed to the software. Its ESP32 firmware reads electrical measurements through a PZEM-004T sensor and controls five relays
+- **SQL language analyzer** — C# desktop application built with .NET Framework and Windows Forms that performs lexical, syntactic, and semantic analysis of SQL DDL and DML statements
 - **[Galart](https://github.com/asaelvim/Galart)** — School team project developed in Python for managing an art gallery; I contributed to sales management, reporting, inventory, PDF output, and account-recovery improvements
 - **Automotive data analysis** — Exploratory analysis and visualization with Python, Seaborn, and Matplotlib
 
